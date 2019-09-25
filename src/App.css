@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%;
+}
+
+.App {
+  background-color: #f7f7f7;
+  margin: 0 auto;
+  margin-top: 5px;
+  width: 90%;
+  -webkit-box-shadow: 1px 1px 15px -5px #000000;
+  box-shadow: 1px 1px 15px -5px #000000;
+}

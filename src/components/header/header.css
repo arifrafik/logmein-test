@@ -1,0 +1,30 @@
+.main-header {
+  margin-bottom: 10px;
+}
+
+.header-container {
+  border: 0px black dashed;
+  display: flex;
+}
+
+.header-item {
+  height: 75px;
+  /* width: 100px;  */
+  line-height: 4;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 1%;
+}
+
+.header-item-center {
+  flex-grow: 1; /* Set the middle element to grow and stretch */
+}
+
+.app-name {
+  margin-left: 20px;
+  font-size: medium;
+}
+.app-logo {
+  height: 80px;
+  pointer-events: none;
+}

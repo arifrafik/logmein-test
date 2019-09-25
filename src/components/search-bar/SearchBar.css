@@ -1,0 +1,21 @@
+.search-bar-container {
+  background-color: white;
+  /* font-size: calc(10px + 2vmin); */
+  border: 1px gray solid;
+  display: flex;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.search-bar-container .search-bar-item {
+  flex-grow: 1;
+  /* height: 100px; */
+}
+
+.search-bar-container .search-bar-item + .search-bar-item {
+  margin-left: 2%;
+}
+
+.search-bar-item-center {
+  flex-grow: 5; /* Set the middle element to grow and stretch */
+}
