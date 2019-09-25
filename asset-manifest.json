@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/logmein-test/static/css/main.27abd549.chunk.css",
-    "main.js": "/logmein-test/static/js/main.1f96ffc7.chunk.js",
-    "main.js.map": "/logmein-test/static/js/main.1f96ffc7.chunk.js.map",
+    "main.css": "/logmein-test/static/css/main.70579954.chunk.css",
+    "main.js": "/logmein-test/static/js/main.9c5ad136.chunk.js",
+    "main.js.map": "/logmein-test/static/js/main.9c5ad136.chunk.js.map",
     "runtime-main.js": "/logmein-test/static/js/runtime-main.53330b52.js",
     "runtime-main.js.map": "/logmein-test/static/js/runtime-main.53330b52.js.map",
-    "static/js/2.c4188d60.chunk.js": "/logmein-test/static/js/2.c4188d60.chunk.js",
-    "static/js/2.c4188d60.chunk.js.map": "/logmein-test/static/js/2.c4188d60.chunk.js.map",
+    "static/css/2.3fc958e3.chunk.css": "/logmein-test/static/css/2.3fc958e3.chunk.css",
+    "static/js/2.115a7ac7.chunk.js": "/logmein-test/static/js/2.115a7ac7.chunk.js",
+    "static/js/2.115a7ac7.chunk.js.map": "/logmein-test/static/js/2.115a7ac7.chunk.js.map",
     "index.html": "/logmein-test/index.html",
-    "precache-manifest.2f4f45706ef8de859fe2e9acfc9afbad.js": "/logmein-test/precache-manifest.2f4f45706ef8de859fe2e9acfc9afbad.js",
+    "precache-manifest.a29938a87bd6fe7696b735b470bf5668.js": "/logmein-test/precache-manifest.a29938a87bd6fe7696b735b470bf5668.js",
     "service-worker.js": "/logmein-test/service-worker.js",
-    "static/css/main.27abd549.chunk.css.map": "/logmein-test/static/css/main.27abd549.chunk.css.map",
-    "static/media/app-logo.png": "/logmein-test/static/media/app-logo.4aad089a.png"
+    "static/css/2.3fc958e3.chunk.css.map": "/logmein-test/static/css/2.3fc958e3.chunk.css.map",
+    "static/css/main.70579954.chunk.css.map": "/logmein-test/static/css/main.70579954.chunk.css.map",
+    "static/media/app-logo.png": "/logmein-test/static/media/app-logo.4aad089a.png",
+    "static/media/font-awesome.min.css": "/logmein-test/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
