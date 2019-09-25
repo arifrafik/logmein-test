@@ -4,7 +4,7 @@ import SearchBar from "./components/search-bar/SearchBar";
 import RecommendationTable from "./components/recommendation-table/RecommendationTable";
 import "./App.css";
 import { randomDataGenerator } from "./services/services";
-
+import ExampleChart from "./components/chart/chart";
 // get our fontawesome imports
 class App extends React.Component {
   constructor() {
@@ -50,7 +50,10 @@ class App extends React.Component {
             <i className="fa fa-spinner fa-spin  fa-7x"></i>
           </div>
         ) : (
-          <RecommendationTable data={this.state.tableData} />
+          <>
+            <RecommendationTable data={this.state.tableData} />
+            <ExampleChart data={this.state.tableData} />
+          </>
         )}
       </div>
     );
